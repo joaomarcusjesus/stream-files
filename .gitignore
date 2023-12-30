@@ -1,0 +1,40 @@
+# Dependências
+node_modules/
+uploads/
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de runtime
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Diretórios de cobertura de código
+coverage/
+.nyc_output/
+
+# Arquivos de configuração de ambiente
+.env
+
+# Arquivos de build
+dist/
+build/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de IDE/editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Outros
+.DS_Store
+Thumbs.db
